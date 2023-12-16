@@ -1,0 +1,162 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #dbbfeb;
+    color: #333; /* Dark text color */
+}
+
+header {
+    text-align: center;
+    padding: 1%;
+    background-color: #cbb5eb;
+}
+
+nav {
+    background-color: #cfbdeb;
+    padding: 0.3%;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: #660066; 
+}
+
+a:hover {
+    color: #990099;
+}
+
+.main-content {
+    padding: 1%;
+}
+
+#artykul1 {
+    background-color: #d5ffeb;
+    margin: 1%;
+    padding: 1%;
+}
+
+#artykul2 {
+    background-color: #c0fdff;
+    margin: 1%;
+    padding: 1%;
+}
+
+#artykul3 {
+    background-color: #fcffe2;
+    margin: 1%;
+    padding: 1%;
+}
+
+#artykul4 {
+    background-color: #ffbdbd;
+    margin: 1%;
+    padding: 1%;
+}
+
+footer {
+    text-align: center;
+    padding: 1%;
+    background-color: #cbb5eb;
+}
+
+#UwU {
+    font-weight: bold;
+    width: 33%;
+    text-align: center;
+    font-size: 500%;
+}
+
+#Title {
+    width: 67%;
+    text-align: center;
+    font-size: 400%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#cof {
+    width: 40%;
+}
+
+#cof1 {
+    width: 70%;
+}
+
+#cof2 {
+    width: 110%;
+}
+
+#halfblocks {
+    width: 50%;
+}
+
+#coftxt {
+    background-color: #aeffd0;
+}
+
+#musictxt {
+    background-color: #abf2ff;
+}
+
+#yellowtxt {
+    background-color: #fffecc;
+}
+
+#orangetxt {
+    background-color: #ff9a9a;
+}
+
+table {
+    width: 10%;
+    border: solid 1px;
+    background-color: #ff7e7e;
+}
+
+table:hover {
+    width: 10%;
+    border: dashed 1px;
+    background-color: #877eff;
+}
+
+#BlarkSon0 {
+    border: solid darkblue 1px;
+    width: 50%;
+    height: 50%;
+}
+
+#BlarkSon1, #BlarkSon2, #BlarkSon3, #BlarkSon4, #BlarkSon5, #BlarkSon6, #BlarkSon7, #BlarkSon8, #BlarkSon9, #BlarkSon10 {
+    border: solid black 1px;
+    background-color: #abf2ff;
+}
+
+#BlarkSon1:hover, #BlarkSon2:hover, #BlarkSon3:hover, #BlarkSon4:hover, #BlarkSon5:hover, #BlarkSon6:hover, #BlarkSon7:hover, #BlarkSon8:hover, #BlarkSon9:hover, #BlarkSon10:hover {
+    border: solid black 1px;
+    background-color: #76d5e6;
+}
+
+#hellokitty {
+    width: 15%;
+}
+
+#cstexture {
+    width: 50%;
+}
+
+#osuface {
+    width: 46%;
+}
+
+h4 {
+    font-size: 200%;
+}
